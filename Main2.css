@@ -1,0 +1,29 @@
+
+body {
+    margin: 0;
+    line-height: normal;
+}
+
+
+:root {
+    
+    /* fonts */
+    --font-merriweather: Merriweather;
+    --font-noto-looped-thai-ui: 'Noto Looped Thai UI';
+    
+    /* font sizes */
+    --font-size-12xl-9: 31.9px;
+    --font-size-lgi: 19px;
+    --font-size-lgi-1: 19.1px;
+    
+    /* Colors */
+    --color-white: #fff;
+    --color-black: #000;
+    --color-mediumblue-100: #2614ee;
+    
+    /* Border radiuses */
+    --br-2xl-9: 21.9px;
+    --br-mini-6: 14.6px;
+    --br-16xl-2: 35.2px;
+    
+}

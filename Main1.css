@@ -1,0 +1,442 @@
+.sih-main-page-1 {
+    position: absolute;
+    top: 1px;
+    left: 0.19px;
+    width: 1240px;
+    height: 881px;
+    object-fit: cover;
+}
+.lower-text {
+    position: absolute;
+    top: 523px;
+    left: 230px;
+    font-size: 25.29px;
+    font-weight: 900;
+    text-shadow: 2.709961175918579px -4.516602039337158px 3.61px rgba(0, 0, 0, 0.6);
+}
+.box {
+    position: absolute;
+    top: 1px;
+    left: 0px;
+    background-color: var(--color-white);
+    width: 1240px;
+    height: 44.2px;
+}
+.home-icon {
+    position: absolute;
+    height: 35.83%;
+    width: 2.46%;
+    top: 25%;
+    right: 85.92%;
+    bottom: 39.17%;
+    left: 11.63%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.home {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-weight: 900;
+    display: inline-block;
+    width: 80.3px;
+    height: 24px;
+}
+.contact-us-icon {
+    position: absolute;
+    height: 35.83%;
+    width: 2.46%;
+    top: 25%;
+    right: 59.64%;
+    bottom: 39.17%;
+    left: 37.91%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.contact-us {
+    position: absolute;
+    top: 0px;
+    left: 118.31px;
+    font-weight: 900;
+    display: inline-block;
+    width: 124.7px;
+    height: 24px;
+}
+.services-icon {
+    position: absolute;
+    height: 35.83%;
+    width: 2.46%;
+    top: 25%;
+    right: 38.07%;
+    bottom: 39.17%;
+    left: 59.47%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.services {
+    position: absolute;
+    top: 0px;
+    left: 273.6px;
+    font-weight: 900;
+    display: inline-block;
+    width: 98.2px;
+    height: 24px;
+}
+.about-us-icon {
+    position: absolute;
+    height: 35.83%;
+    width: 2.46%;
+    top: 25%;
+    right: -0.01%;
+    bottom: 39.17%;
+    left: 97.55%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.about-us {
+    position: absolute;
+    top: 0px;
+    left: 507.06px;
+    font-weight: 900;
+    display: inline-block;
+    width: 104.6px;
+    height: 24px;
+}
+.faqs-icon {
+    position: absolute;
+    height: 35.83%;
+    width: 2.46%;
+    top: 29.17%;
+    right: 21.56%;
+    bottom: 35%;
+    left: 75.98%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.faqs {
+    position: absolute;
+    top: 0px;
+    left: 408.82px;
+    font-weight: 900;
+    display: inline-block;
+    width: 67.6px;
+    height: 24px;
+}
+.text {
+    position: absolute;
+    height: 53.1%;
+    width: 50.56%;
+    top: 19.91%;
+    right: 27.5%;
+    bottom: 26.99%;
+    left: 21.94%;
+}
+.dosel-logo-icon {
+    position: absolute;
+    top: 0px;
+    left: 1009px;
+    width: 217px;
+    height: 42px;
+    object-fit: cover;
+}
+.edu-logo-icon {
+    position: absolute;
+    top: 2px;
+    left: 12px;
+    width: 91px;
+    height: 42px;
+    object-fit: cover;
+}
+.nav-bar {
+    position: absolute;
+    top: -1px;
+    left: 0px;
+    width: 1240px;
+    height: 45.2px;
+    text-align: center;
+    color: var(--color-black);
+}
+.guiding-students-towards {
+    position: absolute;
+    top: 79.49px;
+    left: 178.86px;
+    text-shadow: 4.516602039337158px -3.613281488418579px 3.61px rgba(0, 0, 0, 0.5);
+}
+.career-counselling-and {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-size: 63.23px;
+    text-shadow: 8.1298828125px -2.709961175918579px 3.61px rgba(0, 0, 0, 0.5);
+}
+.upper-text {
+    position: absolute;
+    top: 266px;
+    left: 93px;
+    width: 1054px;
+    height: 122.5px;
+    font-size: 34.33px;
+}
+.sarthi-child {
+    position: absolute;
+    top: 8.54px;
+    left: 0px;
+    border-radius: 35.23px;
+    background: radial-gradient(50% 50% at 50% 50%, #2615ee 20.9%, #160c88);
+    width: 234px;
+    height: 76.5px;
+}
+.saarthi {
+    position: absolute;
+    top: 33px;
+    left: 27px;
+    letter-spacing: 0.12em;
+    font-weight: 900;
+    display: inline-block;
+    width: 125.6px;
+    height: 27.1px;
+}
+.icon {
+    position: absolute;
+    top: 0px;
+    left: 150px;
+    width: 76.9px;
+    height: 84.5px;
+    object-fit: cover;
+}
+.sarthi {
+    position: absolute;
+    top: 428px;
+    left: 503px;
+    width: 234px;
+    height: 85px;
+    font-size: 22.58px;
+}
+.student-tile {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 14.59px;
+    background-color: #fffcfc;
+    width: 404.4px;
+    height: 250.1px;
+}
+.button-1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 21.94px;
+    background-color: #2615ee;
+    width: 115px;
+    height: 41.4px;
+}
+.explore {
+    position: absolute;
+    top: 9.52px;
+    left: 11.46px;
+    font-weight: 900;
+    display: inline-block;
+    width: 90px;
+    height: 20.8px;
+}
+.student-button {
+    position: absolute;
+    top: 194px;
+    left: 144px;
+    width: 115px;
+    height: 41.4px;
+    text-align: center;
+    color: var(--color-white);
+}
+.introducing-students-to {
+    margin: 0;
+}
+.main-text {
+    position: absolute;
+    top: 56px;
+    left: 30px;
+    font-size: var(--font-size-lgi);
+    font-family: var(--font-noto-looped-thai-ui);
+    display: inline-block;
+    width: 322px;
+    height: 95px;
+}
+.students {
+    position: absolute;
+    top: 13.84px;
+    left: 132px;
+    font-size: 31.92px;
+    font-weight: 900;
+    display: inline-block;
+    width: 151px;
+    height: 34.6px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.student {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 404.4px;
+    height: 250.1px;
+}
+.schools-tile {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 14.59px;
+    background-color: var(--color-mediumblue-100);
+    width: 404.4px;
+    height: 250.1px;
+}
+.button-2 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 35.23px;
+    background-color: var(--color-white);
+    width: 115px;
+    height: 41.4px;
+}
+.explore1 {
+    position: absolute;
+    top: 9.52px;
+    left: 5.58px;
+    font-weight: 900;
+    display: inline-block;
+    width: 104px;
+    height: 20.8px;
+}
+.school-button {
+    position: absolute;
+    top: 194px;
+    left: 144.18px;
+    width: 115px;
+    height: 41.4px;
+    text-align: center;
+    color: var(--color-black);
+}
+.main-text1 {
+    position: absolute;
+    top: 56px;
+    left: 23.18px;
+    font-size: var(--font-size-lgi);
+    font-family: var(--font-noto-looped-thai-ui);
+    display: inline-block;
+    width: 363.1px;
+    height: 108.1px;
+}
+.schools {
+    position: absolute;
+    top: 13.84px;
+    left: 140.18px;
+    font-size: 31.92px;
+    font-weight: 900;
+    display: inline-block;
+    width: 129px;
+    height: 34.6px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.school {
+    position: absolute;
+    top: 0px;
+    left: 417.82px;
+    width: 404.4px;
+    height: 250.1px;
+    color: var(--color-white);
+}
+.counsellors-tile {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 14.59px;
+    background-color: #fffdfd;
+    width: 404.4px;
+    height: 250.1px;
+}
+.button-11 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 21.94px;
+    background-color: var(--color-mediumblue-100);
+    width: 115px;
+    height: 41.4px;
+}
+.explore2 {
+    position: absolute;
+    top: 9.52px;
+    left: 10.09px;
+    font-weight: 900;
+    display: inline-block;
+    width: 94px;
+    height: 20.8px;
+}
+.counsellor-button {
+    position: absolute;
+    top: 194px;
+    left: 146.37px;
+    width: 115px;
+    height: 41.4px;
+    text-align: center;
+    color: var(--color-white);
+}
+.main-text2 {
+    position: absolute;
+    top: 56px;
+    left: 36.37px;
+    font-size: var(--font-size-lgi);
+    font-family: var(--font-noto-looped-thai-ui);
+    display: inline-block;
+    width: 332.6px;
+    height: 138px;
+}
+.counsellors {
+    position: absolute;
+    top: 12.98px;
+    left: 105.37px;
+    font-size: 31.92px;
+    font-weight: 900;
+    display: inline-block;
+    width: 198px;
+    height: 34.6px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.counsellor {
+    position: absolute;
+    top: 0px;
+    left: 835.63px;
+    width: 404.4px;
+    height: 250.1px;
+}
+.main-tiles {
+    position: absolute;
+    top: 632px;
+    left: 0px;
+    width: 1240px;
+    height: 250.1px;
+    color: var(--color-black);
+}
+.desktop-1 {
+    width: 100%;
+    position: relative;
+    background-color: var(--color-white);
+    height: 882px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 19.08px;
+    color: var(--color-white);
+    font-family: var(--font-merriweather);
+}
+
+.abc{
+    color:white;
+}
+
+.def{
+    color:black;
+}
